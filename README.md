@@ -1,7 +1,7 @@
 <div>
 <h1>André Toledo Gama</h1>
 <div align="center">
-<img src="https://giphy.com/gifs/rickandmorty-season-4-episode-2-rick-and-morty-H7r5XcQccQvlXPwUOR" width="300" height="300" alt="dev gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlkZmJkN2IzM2JhN2E3NjUwNzc3YzE4OTkzZjAzMTdkZDQ3MDdmZSZjdD1z/H7r5XcQccQvlXPwUOR/giphy.gif" width="300" height="300" alt="dev gif"/>
 <h2>Desenvolvedor junior💻</h2>
 </div>
 
