@@ -43,9 +43,6 @@
       <li><a href="https://github.com/AndreTGama/quero-ir-api" target="_blank">Quero Ir - in Progress</a></li>
     </ul>
     <h2>Vercel</h2>
-    <ul>
-      
-    </ul>
   </div>
           
   
