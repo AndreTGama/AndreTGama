@@ -44,7 +44,8 @@
     </ul>
     <h2>Vercel</h2>
   </div>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlkZmJkN2IzM2JhN2E3NjUwNzc3YzE4OTkzZjAzMTdkZDQ3MDdmZSZjdD1z/H7r5XcQccQvlXPwUOR/giphy.gif" width="500" height="300" alt="dev gif"/>
+  <img src="https://media0.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=ecf05e47glsgoi13ci0vqdfr8fex0ev2g0x5ikc2coc2o9j7&rid=giphy.gif&ct=g" 
+  width="700" height="300" alt="dev gif"/>
           
   
 ![Snake animation](https://github.com/AndreTGama/AndreTGama/blob/output/github-contribution-grid-snake.svg)  
