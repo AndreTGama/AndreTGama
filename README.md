@@ -40,7 +40,8 @@
   <div>
     <h2>Github Pages</h2> 
     <ul>
-      <li><a href="https://github.com/AndreTGama/quero-ir-api" target="_blank">Quero Ir - in Progress</a></li>
+      <li><a href="https://github.com/AndreTGama/quero-ir-api" target="_blank">Quero Ir API - in Progress</a></li>
+      <li><a href="https://github.com/AndreTGama/quero-ir-app" target="_blank">Quero Ir APP - in Progress</a></li>
     </ul>
     <h2>Vercel</h2>
   </div>
