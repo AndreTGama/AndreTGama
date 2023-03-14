@@ -33,7 +33,10 @@
           </a>
           <a href="https://laravel.com/">
       <img style="height:50px; width:50px;" alt="laravel-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-          </a>      
+          </a> 
+          <a href="https://flutter.dev/">
+      <img style="height:50px; width:50px;" alt="laravel-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/flutter.svg" />
+          </a>    
     </div>
   
     
