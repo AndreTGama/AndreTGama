@@ -35,7 +35,7 @@
       <img style="height:50px; width:50px;" alt="laravel-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
           </a> 
           <a href="https://flutter.dev/">
-      <img style="height:50px; width:50px;" alt="laravel-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/flutter.svg" />
+      <img style="height:50px; width:50px;" alt="flutter icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
           </a>    
     </div>
   
